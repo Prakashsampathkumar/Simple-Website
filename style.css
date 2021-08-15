@@ -1,0 +1,63 @@
+
+.body{
+	background-color: 3DD6AE;
+	color:E1365B;
+	line-height: 1.6em;
+	margin: 0;
+	font-family:fangsong;
+	font-size: 16px;
+
+}
+.container h1{
+	text-align: center;
+}
+.container h1{
+	text-align: center;
+}
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+#header2{
+	background-color:#26C796;
+	color:29C1B1 ;
+}
+#header1{
+	background-color: lightcoral;
+	color:29C1B1 ;
+}
+#navbar{
+	background-color:#333 ;
+	font-color: ;
+}
+#navbar ul{
+	padding: 0;
+	list-style: none;
+}
+#navbar li{
+	display: inline;
+}
+#navbar a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px;
+}
+#showcase{
+	background-image: url('kedikk.jpeg');
+	background-repeat:no-repeat;
+	background-position: right left ;
+	height: 300px;
+	margin-right: 150px;
+	width: 100%;
+	margin-bottom:30px;
+	text-align: center;
+}
+#foot1{
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
+}
